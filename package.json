@@ -1,0 +1,12 @@
+{
+  "name": "none-package-with-pad-left",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./node_modules/pad-left/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pad-left": "2.0.3"
+  }
+}
