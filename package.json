@@ -3,8 +3,24 @@
   "version": "1.0.0",
   "description": "",
   "main": "./node_modules/pad-left/index.js",
+  "repository": {
+    "type": "git",
+    "url": "rimunroe/none-package-with-pad-left"
+  },
+  "contributors": [
+    {
+      "name": "richard munroe",
+      "email": "rimunroe@gmail.com",
+      "url": "https://github.com/rimunroe"
+    }
+  ],
+  "homepage": "https://github.com/rimunroe/none-package-with-pad-left",
+  "engines": {
+    "node": "*"
+  },
   "keywords": [],
-  "author": "",
+  "author": "richard munroe",
+  "bugs": "https://github.com/rimunroe/none-package-with-pad-left/issues",
   "license": "ISC",
   "dependencies": {
     "pad-left": "2.0.3"
